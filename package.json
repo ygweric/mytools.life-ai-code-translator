@@ -9,8 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@codemirror/language": "^6.10.2",
     "@codemirror/legacy-modes": "^6.3.2",
-    "@uiw/codemirror-theme-tokyo-night": "^4.19.11",
+    "@uiw/codemirror-theme-tokyo-night": "^4.22.2",
     "@uiw/react-codemirror": "^4.19.11",
     "endent": "^2.1.0",
     "eventsource-parser": "^1.0.0",
